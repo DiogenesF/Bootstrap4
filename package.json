@@ -20,7 +20,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "concurrently": "^5.0.0",
+    "concurrently": "^5.2.0",
     "del": "^5.1.0",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-clean": "^2.0.0",
@@ -35,30 +35,30 @@
     "grunt-sass": "^3.1.0",
     "grunt-usemin": "^3.1.1",
     "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.2.0",
+    "gulp-clean-css": "^4.3.0",
     "gulp-flatmap": "^1.0.2",
     "gulp-htmlmin": "^5.0.1",
-    "gulp-imagemin": "^6.1.1",
+    "gulp-imagemin": "^6.2.0",
     "gulp-rev": "^9.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-usemin": "^0.3.30",
-    "imagemin": "^7.0.0",
+    "imagemin": "^7.0.1",
     "jit-grunt": "^0.10.0",
     "lite-server": "^2.3.0",
-    "node-sass": "^4.13.0",
-    "onchange": "^6.1.0",
-    "rimraf": "^3.0.0",
+    "node-sass": "^4.14.1",
+    "onchange": "^6.1.1",
+    "rimraf": "^3.0.2",
     "time-grunt": "^2.0.0",
-    "usemin-cli": "^0.5.1"
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.5.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
-    "grunt": "^1.0.4",
-    "jquery": "^3.4.1",
+    "grunt": "^1.1.0",
+    "jquery": "^3.5.1",
     "popper": "^1.0.1",
-    "popper.js": "^1.14.7"
+    "popper.js": "^1.16.1"
   }
 }
